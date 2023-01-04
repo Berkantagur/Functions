@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<stdlib.h>
 
 
 int exponentiationInvolution(int base, int exponent){
