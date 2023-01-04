@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<stdlib.h>
 
 void rectangle(int width, int length){
 
