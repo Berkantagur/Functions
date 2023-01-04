@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<stdlib.h>
 
 //İçi boş dikdörtgen çizme
 void rectangle(int length, int width){
@@ -23,6 +22,8 @@ void rectangle(int length, int width){
                 else 
                 printf("  ");
             }
+
+            
         }
         printf("\n");
     }
