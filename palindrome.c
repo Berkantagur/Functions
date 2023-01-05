@@ -12,6 +12,7 @@ while(x!=0){
     reversed = reversed*10 + remainder;
     x/=10;
 }
+
 if (reversed == n){
     printf("Palindrome");
 }
